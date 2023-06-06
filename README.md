@@ -13,7 +13,7 @@ This project is a Python-based ticket booking system that allows users to book t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/PriyadharshiniVenkateshan/your-project.git
    ```
 
 2. Navigate to the project directory:
@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For any support or questions, you can reach out to the project maintainer at `email@example.com`.
+For any support or questions, you can reach out to the project maintainer at `swethasp1998@gmail.com`.
 
 ## Acknowledgments
 
